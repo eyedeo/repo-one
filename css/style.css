@@ -1,11 +1,56 @@
-#kitty{
-    width: 200px;
-    height: 200px;
-    position: relative;
-    top: 0;
-    left: 0;
-}
 
 h2 {
-    font-size: 50px
+    font-size: 50px;
+    
+    left:25%; 
+    font-family: Cambria; 
+    color: turquoise; 
+    -webkit-text-stroke-width: 3.2px;
+    -webkit-text-stroke-color: black;
+}
+
+
+#sealion {
+    position: relative;
+    left:0%; 
+    bottom:40%;
+    width:350px;
+    height:370px;
+}
+
+#paragraph1{
+    color: aqua; 
+    font-size: 15px; 
+    left:1%; bottom:99%; 
+    position:fixed;
+}
+
+h3{
+    font-family: Comic Sans MS; 
+    text-decoration: underline; 
+    text-decoration-color: aqua; 
+    color: aqua; 
+    font-size: 40px; 
+    /* position: fixed; */
+    bottom:55%;
+    -webkit-text-stroke-width: 1.2px; 
+    -webkit-text-stroke-color: black;
+}
+
+ul{
+    color: aqua;font-weight: bold; font-size:35px; 
+    /* position:fixed;  */
+    bottom:40%;-webkit-text-stroke-width: 1.2px; -webkit-text-stroke-color: black;
+}
+
+li{
+    font-family: Comic Sans MS", "Comic Sans", cursive;
+}
+
+#fixitplease {
+    backdrop-filter: blur(5px);
+}
+
+body {
+    background-image: url(https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2020/05/boyszoom-5.jpg);
 }
